@@ -64,10 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-L2 Inc was a subscription research and business intelligence firm founded in New York City in 2010 by NYU Stern marketing professor Scott Galloway and co-founder Maureen Mullen. It benchmarked the digital competence of consumer brands through its Digital IQ Index reports, covering over 2,200 brands a year across fashion, luxury, retail, beauty, financial services and consumer packaged goods.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: general-catalyst (from 2014; Larry Bohn and Paul Sagan)
+L2 Inc was a subscription research and business intelligence firm founded in New York City in 2010 by NYU Stern marketing professor Scott Galloway and co-founder Maureen Mullen. L2 benchmarked the digital competence of consumer brands, publishing more than 25 Digital IQ Index reports each year covering over 2,200 brands across fashion, luxury, retail, beauty, financial services, hospitality and consumer packaged goods. Its research scored brands on site experience, e-commerce, digital marketing, social media and mobile execution, and was sold as a subscription to CMOs and senior marketing leaders. The firm raised roughly $16.5 million in venture funding, including backing from General Catalyst (Larry Bohn and Paul Sagan) from 2014. Gartner acquired L2 in March 2017, when it had about 150 employees across New York and London, and folded the Digital IQ research into Gartner for Marketers. L2 never operated a public developer program or API: its research was delivered through a subscriber web platform and published reports. The l2inc.com domain is registered but no longer resolves, and no L2-branded developer, documentation or API surface remains online. This profile is retained as an acquired-company record with no API artifacts.
 
-**Status: acquired.** Gartner acquired L2 in March 2017 and folded the Digital IQ research into Gartner for Marketers. L2 never ran a public developer program or API — research was delivered via a subscriber web platform and published reports. The `l2inc.com` domain is still registered but no longer resolves, and no L2-branded developer, documentation or API surface remains online.
+**Areas:** Company · Research · Market Research · Business Intelligence · Benchmarking · Digital Marketing · E-Commerce · Acquired
 
-No API artifacts are captured in this repo, and none are expected.
+## L2 on APIs.io (historical record)
+
+Everything profiled for L2 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/l2/](https://apis.io/providers/l2/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for L2: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/l2/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
